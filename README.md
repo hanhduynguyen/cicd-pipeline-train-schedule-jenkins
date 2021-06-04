@@ -4,7 +4,7 @@ This is a simple train schedule app written using nodejs. It is intended to be u
 
 ## Running the app
 
-echo "Hello worl   d, test trigger"
+echo "Hello worl   d, test trigger..."
 
 You need a Java JDK 7 or later to run the build. You can run the build like this:
 
